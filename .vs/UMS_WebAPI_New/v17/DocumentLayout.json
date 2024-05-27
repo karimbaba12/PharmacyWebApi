@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Filters\\GlobalExceptionFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_WebAPI_New\\Filters\\GlobalExceptionFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Extentions\\StartUpExtentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_WebAPI_New\\Extentions\\StartUpExtentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\GenericServices\\IGenericService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_BLL\\Services\\GenericServices\\IGenericService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\GenericServices\\GenericService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_BLL\\Services\\GenericServices\\GenericService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_WebAPI_New\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Controllers\\_Generics\\GenericController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_WebAPI_New\\Controllers\\_Generics\\GenericController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Users\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_BLL\\Services\\Users\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Users\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_BLL\\Services\\Users\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Majors\\MajorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_BLL\\Services\\Majors\\MajorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Majors\\IMajorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_BLL\\Services\\Majors\\IMajorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_WebAPI_New\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\DTO\\Users\\LoginRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UMS_BLL\\DTO\\Users\\LoginRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalExceptionFilter.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Filters\\GlobalExceptionFilter.cs",
+              "RelativeDocumentMoniker": "UMS_WebAPI_New\\Filters\\GlobalExceptionFilter.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Filters\\GlobalExceptionFilter.cs",
+              "RelativeToolTip": "UMS_WebAPI_New\\Filters\\GlobalExceptionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:52:56.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUpExtentions.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Extentions\\StartUpExtentions.cs",
+              "RelativeDocumentMoniker": "UMS_WebAPI_New\\Extentions\\StartUpExtentions.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Extentions\\StartUpExtentions.cs",
+              "RelativeToolTip": "UMS_WebAPI_New\\Extentions\\StartUpExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:33:53.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\GenericServices\\IGenericService.cs",
+              "RelativeDocumentMoniker": "UMS_BLL\\Services\\GenericServices\\IGenericService.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\GenericServices\\IGenericService.cs",
+              "RelativeToolTip": "UMS_BLL\\Services\\GenericServices\\IGenericService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:32:41.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\GenericServices\\GenericService.cs",
+              "RelativeDocumentMoniker": "UMS_BLL\\Services\\GenericServices\\GenericService.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\GenericServices\\GenericService.cs",
+              "RelativeToolTip": "UMS_BLL\\Services\\GenericServices\\GenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:32:40.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Program.cs",
+              "RelativeDocumentMoniker": "UMS_WebAPI_New\\Program.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Program.cs",
+              "RelativeToolTip": "UMS_WebAPI_New\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:19:14.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Controllers\\_Generics\\GenericController.cs",
+              "RelativeDocumentMoniker": "UMS_WebAPI_New\\Controllers\\_Generics\\GenericController.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Controllers\\_Generics\\GenericController.cs",
+              "RelativeToolTip": "UMS_WebAPI_New\\Controllers\\_Generics\\GenericController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:05:42.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "UMS_BLL\\Services\\Users\\UserService.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "UMS_BLL\\Services\\Users\\UserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:05:37.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "UMS_BLL\\Services\\Users\\IUserService.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Users\\IUserService.cs",
+              "RelativeToolTip": "UMS_BLL\\Services\\Users\\IUserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:01:52.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MajorService.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Majors\\MajorService.cs",
+              "RelativeDocumentMoniker": "UMS_BLL\\Services\\Majors\\MajorService.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Majors\\MajorService.cs",
+              "RelativeToolTip": "UMS_BLL\\Services\\Majors\\MajorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:02:02.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMajorService.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Majors\\IMajorService.cs",
+              "RelativeDocumentMoniker": "UMS_BLL\\Services\\Majors\\IMajorService.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\Services\\Majors\\IMajorService.cs",
+              "RelativeToolTip": "UMS_BLL\\Services\\Majors\\IMajorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:01:56.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UMS_WebAPI_New\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_WebAPI_New\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UMS_WebAPI_New\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:42:20.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\DTO\\Users\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "UMS_BLL\\DTO\\Users\\LoginRequestDTO.cs",
+              "ToolTip": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_BLL\\DTO\\Users\\LoginRequestDTO.cs",
+              "RelativeToolTip": "UMS_BLL\\DTO\\Users\\LoginRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:16:20.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

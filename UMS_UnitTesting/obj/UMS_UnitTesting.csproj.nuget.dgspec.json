@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_UnitTesting\\UMS_UnitTesting.csproj": {}
+  },
+  "projects": {
+    "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_DAL\\UMS_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_DAL\\UMS_DAL.csproj",
+        "projectName": "UMS_DAL",
+        "projectPath": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_DAL\\UMS_DAL.csproj",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
+        "outputPath": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_UnitTesting\\UMS_UnitTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_UnitTesting\\UMS_UnitTesting.csproj",
+        "projectName": "UMS_UnitTesting",
+        "projectPath": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_UnitTesting\\UMS_UnitTesting.csproj",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
+        "outputPath": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_UnitTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_DAL\\UMS_DAL.csproj": {
+                "projectPath": "E:\\ums\\UMS_WEB_API\\UMS_WebAPI_New\\UMS_DAL\\UMS_DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
