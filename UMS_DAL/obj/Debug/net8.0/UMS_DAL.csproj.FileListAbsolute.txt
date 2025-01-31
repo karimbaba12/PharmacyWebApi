@@ -26,3 +26,4 @@ E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_DAL\obj\Debug\net8.0\refint\UMS_DAL.dll
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_DAL\obj\Debug\net8.0\UMS_DAL.pdb
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_DAL\obj\Debug\net8.0\UMS_DAL.genruntimeconfig.cache
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_DAL\obj\Debug\net8.0\ref\UMS_DAL.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_DAL\obj\Debug\net8.0\UMS_DAL.sourcelink.json

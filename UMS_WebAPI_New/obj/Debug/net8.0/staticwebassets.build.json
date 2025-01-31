@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "jVTSeO7HCVdvbDDe8y9eQmLEXgVkPVrzcFZoP7k/CFQ=",
+  "Hash": "i90NN8WowZB0YhCNiwWw+JfzOIf27uX3u6bS7gFgis8=",
   "Source": "UMS_WebAPI_New",
   "BasePath": "_content/UMS_WebAPI_New",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -1,3 +1,4 @@
+using Microsoft.Extensions.Options;
 using UMS_WebAPI_New.Extentions;
 using UMS_WebAPI_New.Filters;
 
@@ -27,6 +28,13 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
+app.UseCors(
+    
+    options => { 
+    options.AllowAnyOrigin();
+    options.AllowAnyMethod();
+    options.AllowAnyHeader();
+});
 app.MapControllers();
 
 app.Run();

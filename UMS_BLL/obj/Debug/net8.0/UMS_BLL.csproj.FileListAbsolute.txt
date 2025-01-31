@@ -28,3 +28,4 @@ E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_BLL\obj\Debug\net8.0\UMS_BLL.dll
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_BLL\obj\Debug\net8.0\refint\UMS_BLL.dll
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_BLL\obj\Debug\net8.0\UMS_BLL.pdb
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_BLL\obj\Debug\net8.0\ref\UMS_BLL.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_BLL\obj\Debug\net8.0\UMS_BLL.sourcelink.json

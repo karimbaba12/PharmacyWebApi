@@ -1,22 +1,16 @@
 ﻿using AutoMapper;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UMS_BLL.DTO.Majors;
 using UMS_BLL.DTO.Users;
 using UMS_BLL.Services.GenericServices;
-using UMS_BLL.Services.Majors;
 using UMS_BLL.Wrapping;
 using UMS_DAL.Models;
-using UMS_DAL.Repositories.Majors;
 using UMS_DAL.Repositories.Users;
 
 namespace UMS_BLL.Services.Users
 {
     using Entity = User;
     using dto = UserDTO;
+
     public class UserService : GenericService<Entity, dto>, IUserService
     {
         public readonly IUserRepository _userRepository;
@@ -28,8 +22,8 @@ namespace UMS_BLL.Services.Users
             _mapper = mapper;
         }
 
-        //to stop the Delete
-        public override ApiResponse <bool> Delete(int id)
+        // Override Delete methods to prevent deletion
+        public override ApiResponse<bool> Delete(int id)
         {
             throw new NotImplementedException();
         }
@@ -39,22 +33,24 @@ namespace UMS_BLL.Services.Users
             throw new NotImplementedException();
         }
 
-      
-
-        public bool login(LoginRequestDTO loginRequestDTO)
+        // Implement the login method (lowercase to match the interface)
+        public dto login(LoginRequestDTO loginRequestDTO)
         {
-            //get user from data base based on username
-            var username = loginRequestDTO.UserName;
-            var user = _userRepository.GetUserByUserName(username);
+            // Get user from the database based on username
+            var user = _userRepository.GetUserByUserName(loginRequestDTO.UserName);
+
             if (user != null)
             {
-                return username == loginRequestDTO.UserName;
+                // Validate the password (plain text comparison - not recommended for production)
+                if (user.Password == loginRequestDTO.Password)
+                {
+                    // Map the User entity to UserDTO
+                    return _mapper.Map<dto>(user);
+                }
             }
-            else
-            {
-                return false;
-            }
-            return true;
+
+            // Return null if login fails
+            return null;
         }
     }
-    }
+}

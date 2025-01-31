@@ -280,3 +280,15 @@ E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\obj\Debug\net8.0\refint\UMS_Web
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\obj\Debug\net8.0\UMS_WebAPI_New.pdb
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\obj\Debug\net8.0\UMS_WebAPI_New.genruntimeconfig.cache
 E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\obj\Debug\net8.0\ref\UMS_WebAPI_New.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\obj\Debug\net8.0\UMS_WebAPI_New.sourcelink.json
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\bin\Debug\net8.0\UMS_WebAPI_New.staticwebassets.endpoints.json
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\obj\Debug\net8.0\staticwebassets\msbuild.UMS_WebAPI_New.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ums\UMS_WEB_API\UMS_WebAPI_New\UMS_WebAPI_New\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

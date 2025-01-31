@@ -10,10 +10,10 @@ using UMS_BLL.Services.GenericServices;
 namespace UMS_BLL.Services.Users
 {
    
-         using dto = UserDTO;
+using dto = UserDTO;
     public interface IUserService : IGenericService<dto>
     {
-        bool login(LoginRequestDTO loginRequestDTO);
+        dto login(LoginRequestDTO loginRequestDTO);
     }
 }
 
